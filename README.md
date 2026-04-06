@@ -1,3 +1,10 @@
-*Yo!!!! How it's going*
-**Pretty Good if I say to myself**
-*This content is **Italic and Bold** *
+# Hi Shantanu Here
+
+## Software Developer
+
+### Experties : 
+-MERN STACK
+-JAVA (Spring Boot)
+-SQL
+-Mongo DB
+
